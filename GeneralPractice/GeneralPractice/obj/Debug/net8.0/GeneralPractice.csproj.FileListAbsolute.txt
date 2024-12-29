@@ -1,0 +1,14 @@
+C:\Users\caplo\source\repos\GeneralPractice\GeneralPractice\bin\Debug\net8.0\GeneralPractice.exe
+C:\Users\caplo\source\repos\GeneralPractice\GeneralPractice\bin\Debug\net8.0\GeneralPractice.deps.json
+C:\Users\caplo\source\repos\GeneralPractice\GeneralPractice\bin\Debug\net8.0\GeneralPractice.runtimeconfig.json
+C:\Users\caplo\source\repos\GeneralPractice\GeneralPractice\bin\Debug\net8.0\GeneralPractice.dll
+C:\Users\caplo\source\repos\GeneralPractice\GeneralPractice\bin\Debug\net8.0\GeneralPractice.pdb
+C:\Users\caplo\source\repos\GeneralPractice\GeneralPractice\obj\Debug\net8.0\GeneralPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caplo\source\repos\GeneralPractice\GeneralPractice\obj\Debug\net8.0\GeneralPractice.AssemblyInfoInputs.cache
+C:\Users\caplo\source\repos\GeneralPractice\GeneralPractice\obj\Debug\net8.0\GeneralPractice.AssemblyInfo.cs
+C:\Users\caplo\source\repos\GeneralPractice\GeneralPractice\obj\Debug\net8.0\GeneralPractice.csproj.CoreCompileInputs.cache
+C:\Users\caplo\source\repos\GeneralPractice\GeneralPractice\obj\Debug\net8.0\GeneralPractice.dll
+C:\Users\caplo\source\repos\GeneralPractice\GeneralPractice\obj\Debug\net8.0\refint\GeneralPractice.dll
+C:\Users\caplo\source\repos\GeneralPractice\GeneralPractice\obj\Debug\net8.0\GeneralPractice.pdb
+C:\Users\caplo\source\repos\GeneralPractice\GeneralPractice\obj\Debug\net8.0\GeneralPractice.genruntimeconfig.cache
+C:\Users\caplo\source\repos\GeneralPractice\GeneralPractice\obj\Debug\net8.0\ref\GeneralPractice.dll
